@@ -1,0 +1,7 @@
+{
+  "Contents": [
+    {"Key": "exports/2026-10-01/orders.csv.gz", "Size": 184320, "LastModified": "2026-10-01T04:15:00+00:00", "StorageClass": "STANDARD"},
+    {"Key": "exports/2026-10-02/orders.csv.gz", "Size": 196608, "LastModified": "2026-10-02T04:15:00+00:00", "StorageClass": "STANDARD"},
+    {"Key": "exports/2026-10-01/accounts.csv.gz", "Size": 40960, "LastModified": "2026-10-01T04:20:00+00:00", "StorageClass": "STANDARD_IA"}
+  ]
+}

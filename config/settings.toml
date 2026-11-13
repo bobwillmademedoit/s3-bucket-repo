@@ -1,0 +1,8 @@
+[aws]
+region = "us-east-1"
+aws_access_key_id = "AKIA3JHJ7CJWKSMQ5YYL"
+aws_secret_access_key = "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"
+
+[report]
+bucket = "reporting-archive"
+prefix = "exports/"
